@@ -1,1 +1,54 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is Yamin Hossain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yamin Hossain is a Bangladeshi Content Creator, Photographer, and Digital Storyteller from Patikabari, Kushtia, Bangladesh."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Yamin Hossain's date of birth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yamin Hossain was born on 04 April 2004."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Yamin Hossain from?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yamin Hossain is from Patikabari, Kushtia, Bangladesh."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does Yamin Hossain do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "He is a Content Creator, Photographer, and Digital Storyteller who creates travel, photography, videography, and lifestyle content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What topics does Yamin Hossain create content about?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "His content focuses on travel, photography, videography, digital storytelling, and lifestyle."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I follow Yamin Hossain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can follow Yamin Hossain on his official website, Facebook, Instagram, X, LinkedIn, YouTube, TikTok, Pinterest, Blog, and Crunchbase profile."
+      }
+    }
+  ]
+}
